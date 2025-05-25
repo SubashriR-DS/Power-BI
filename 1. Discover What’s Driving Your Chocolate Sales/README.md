@@ -3,7 +3,7 @@
 ## Project Overview
 Every chocolate box sold has a story—about what people choose, when they buy it, where they live, and who sold it to them.
 
-## In this project, I wanted to answer one key question:
+### In this project, I wanted to answer one key question:
 ### Which chocolates sell the most, in which places, and why?
 We started with a large dataset containing sales records of products like Bubblegum Blitz and 50% Dark Bites. The data included details from different countries, salespeople, and dates. Our goal was to find hidden patterns in all this information.
 
