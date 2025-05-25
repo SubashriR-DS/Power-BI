@@ -7,6 +7,21 @@ Every chocolate box sold has a story—about what people choose, when they buy i
 ## Which chocolates sell the most, in which places, and why?
 We started with a large dataset containing sales records of products like Bubblegum Blitz and 50% Dark Bites. The data included details from different countries, salespeople, and dates. Our goal was to find hidden patterns in all this information.
 
+# Features / Highlights
+##  Business Problem
+Sales managers lack a unified view of product performance, regional trends, and salesperson contributions. It's also difficult to track delivery consistency and product popularity at a glance.
+## Goal of the Dashboard
+To provide a centralized and user-friendly dashboard that:
+Tracks chocolate sales volume and revenue across countries and time.
+Identifies top and underperforming products and salespersons.
+## Walkthrough of Key Visuals
+ - we built an easy-to-use Power BI dashboard that turns raw data into useful insights.
+ - **Line charts** showed how sales go up and down during certain times of the year, like during holidays.
+ - **Bar  and donut charts** helped us see which chocolates are most popular and which countries bring in the most money.
+ - **Tables** highlighted which salespeople sold the most, so we could recognize top performers or support others.
+ - **KPI cards** gave a quick view of the total money made and the number of boxes sold.
+ - **A calendar filter (slicer)** let users explore the data by year, quarter, month, or week.
+
 # Tech Stack
 The dashboard was built using the following tools and technologies:
 
@@ -32,20 +47,8 @@ Amount – Total sale amount
 Boxes – Number of boxes sold
 Order Status – Delivery outcome (Delivered or Cancelled)
 
-# Features / Highlights
-##  Business Problem
-Sales managers lack a unified view of product performance, regional trends, and salesperson contributions. It's also difficult to track delivery consistency and product popularity at a glance.
-## Goal of the Dashboard
-To provide a centralized and user-friendly dashboard that:
-Tracks chocolate sales volume and revenue across countries and time.
-Identifies top and underperforming products and salespersons.
-## Walkthrough of Key Visuals
- - we built an easy-to-use Power BI dashboard that turns raw data into useful insights.
- - **Line charts** showed how sales go up and down during certain times of the year, like during holidays.
- - **Bar  and donut charts** helped us see which chocolates are most popular and which countries bring in the most money.
- - **Tables** highlighted which salespeople sold the most, so we could recognize top performers or support others.
- - **KPI cards** gave a quick view of the total money made and the number of boxes sold.
- - **A calendar filter (slicer)** let users explore the data by year, quarter, month, or week.
+# Conclusion
+As we worked through the data, the dashboard became more than just a report—it became a helpful tool for making smart decisions. It can now support planning, improve focus on best-selling products, and even help predict busy sales seasons.
 
 ## Dashbord Screenshort Page 2
   
