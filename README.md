@@ -1,4 +1,4 @@
-# Global Chocolate Sales Insights Dashboard
+# Title of the Dashboard :Global Chocolate Sales Insights Dashboard
 
 # Project Overview
 A dynamic, interactive Power BI report designed to explore chocolate product sales performance across regions, sales reps, and order statuse, delivering clear insights into product trends, sales efficiency, and operational outcomes.
