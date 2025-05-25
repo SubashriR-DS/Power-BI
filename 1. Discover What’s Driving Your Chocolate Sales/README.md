@@ -15,7 +15,7 @@ To provide a centralized and user-friendly dashboard that:
 Tracks chocolate sales volume and revenue across countries and time.
 Identifies top and underperforming products and salespersons.
 ### Walkthrough of Key Visuals
- - we built an easy-to-use Power BI dashboard that turns raw data into useful insights.
+we built an easy-to-use Power BI dashboard that turns raw data into useful insights.
  - **Line charts** showed how sales go up and down during certain times of the year, like during holidays.
  - **Bar  and donut charts** helped us see which chocolates are most popular and which countries bring in the most money.
  - **Tables** highlighted which salespeople sold the most, so we could recognize top performers or support others.
