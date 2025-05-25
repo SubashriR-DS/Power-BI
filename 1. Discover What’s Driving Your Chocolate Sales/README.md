@@ -1,4 +1,4 @@
-# Title of the Dashboard :Global Chocolate Sales Insights Dashboard
+# Title of the Dashboard :Global Chocolate Sales Insight
 
 ## Project Overview
 Every chocolate box sold has a story—about what people choose, when they buy it, where they live, and who sold it to them.
