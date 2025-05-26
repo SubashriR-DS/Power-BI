@@ -55,4 +55,9 @@ As we worked through the data, the dashboard became more than just a report—it
 ![Chocolate Sales Performance Dashboard](https://github.com/user-attachments/assets/362ec4e0-cb39-4c16-a408-3b05f1a4859b)
 ## Dashbord Screenshort Page 1 with Saleperson tracker
 ![image](https://github.com/user-attachments/assets/7d58a0cd-9263-4387-a95e-a610d3a0e17b)
+## Page 3 - sales Person Performance Rating by team wise
+
+To provide a clear and insightful view of individual sales performance, I developed an interactive Power BI dashboard that compares each salesperson’s actual sales against a fixed target of $2,000,000. Utilized DAX formulas in Power BI, incorporating the CALCULATE and DIVIDE functions, as well as implementing IF and SWITCH conditional logic to enhance data analysis and drive dynamic insights. The dashboard features key performance metrics, target comparison, thumbs-up/down symbols, and star-based performance ratings for quick visual interpretation. An interactive slicer enables filtering by salesperson or team, offering flexibility and ease of use for business stakeholders to make informed decisions efficiently.
+![image](https://github.com/user-attachments/assets/750583f2-bd14-4498-8742-d6ff501c51e4)
+
 
