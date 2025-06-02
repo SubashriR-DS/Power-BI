@@ -1,7 +1,7 @@
 # Title of the Dashboard :Discoer What's Driing Your Chocolate Sales
 
 ## Project Overview
-Every chocolate box sold has a story—about what people choose, when they buy it, where they live, and who sold it to them.
+Every chocolate box sold has a story about what people choose, when they buy it, where they live, and who sold it to them.
 
 ### In this project, I wanted to answer one key question:
 ### Which chocolates sell the most, in which places, and why?
@@ -59,5 +59,8 @@ As we worked through the data, the dashboard became more than just a report—it
 
 To provide a clear and insightful view of individual sales performance, I developed an interactive Power BI dashboard that compares each salesperson’s actual sales against a fixed target of $2,000,000. Utilized DAX formulas in Power BI, incorporating the CALCULATE and DIVIDE functions, as well as implementing IF and SWITCH conditional logic to enhance data analysis and drive dynamic insights. The dashboard features key performance metrics, target comparison, thumbs-up/down symbols, and star-based performance ratings for quick visual interpretation. An interactive slicer enables filtering by salesperson or team, offering flexibility and ease of use for business stakeholders to make informed decisions efficiently.
 ![image](https://github.com/user-attachments/assets/750583f2-bd14-4498-8742-d6ff501c51e4)
+![image](https://github.com/user-attachments/assets/9508e3b0-f688-46fe-be19-7d56589313fb)
+
+
 
 
