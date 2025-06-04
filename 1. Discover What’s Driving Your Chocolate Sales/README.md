@@ -1,4 +1,4 @@
-# Title of the Dashboard :Discover What's Driing Your Chocolate Sales
+# Title of the Dashboard :Discover What's Driving Your Chocolate Sales
 
 ## Project Overview
 Every chocolate box sold has a story about what people choose, when they buy it, where they live, and who sold it to them.
