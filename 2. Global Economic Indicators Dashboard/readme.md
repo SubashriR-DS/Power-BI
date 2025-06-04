@@ -6,8 +6,11 @@ The goal is to help analysts, policymakers, and researchers gain insights into g
 ## Key Features
 ### Page 1: Overview Dashboard
 •	Line Chart: Global GDP Annual Growth % over the years.
+
 •	Choropleth Map: Regional GDP distribution by country (color-coded by region).
+
 •	Bar Chart: Top countries by GDP, segmented by region.
+
 •	KPI Table: Displays 2020 data – Country name, GDP, Population, GDP per capita, and Population Density with conditional formatting.
 
 ### Page 2: Country Drillthrough (Example: Russian Federation)
