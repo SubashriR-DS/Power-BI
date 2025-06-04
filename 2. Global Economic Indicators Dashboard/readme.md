@@ -53,7 +53,8 @@ The goal is to help analysts, policymakers, and researchers gain insights into g
 
 
 ### Page 2:Dashboard
-    ![image](https://github.com/user-attachments/assets/45858a42-1f5e-4a84-957a-099f283ab3b0) 
+   
+![image](https://github.com/user-attachments/assets/b0bfbad5-3e9d-4d49-84d2-06d585b94164)
 
 
 ### Page 3:Dashboard
