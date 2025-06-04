@@ -15,33 +15,42 @@ The goal is to help analysts, policymakers, and researchers gain insights into g
 
 ### Page 2: Country Drillthrough (Example: Russian Federation)
 •	Dynamic page accessed via drill-through for country-specific analysis.
+
 •	Key metrics at a glance: Population, GDP, GDP per capita, Population Density.
+
 •	Dual-axis Combo Chart showing:
-o	GDP Annual Growth % (bars)
-o	Total GDP (line)
+    GDP Annual Growth % (bars)
+    Total GDP (line)
 •	Tabular data with year-wise breakdown of GDP, population, and per capita values.
+
 ### Page 3: Metadata
 •	Provides clear documentation of:
-o	Data sources (World Bank APIs)
-o	Indicator definitions and aggregation methods
-o	License details and metadata comments
+    1. Data sources (World Bank APIs)
+    2.  Indicator definitions and aggregation methods
+    3. License details and metadata comments
 ## Technical Stack
 •	Tool: Microsoft Power BI
+
 •	Data Source:
-o	World Bank Open API
-o	Endpoints used:
-	Population: SP.POP.TOTL
-	GDP (constant 2015 US$): NY.GDP.MKTP.KD
-	GDP per capita: NY.GDP.PCAP.KD
+
+    World Bank Open API
+    Endpoints used:
+            Population: SP.POP.TOTL
+            GDP (constant 2015 US$): NY.GDP.MKTP.KD
+           	GDP per capita: NY.GDP.PCAP.KD
 •	Data Processing:
-o	Power Query Editor used to transform JSON API data
-o	Data model created using relationships among metrics
+          	Power Query Editor used to transform JSON API data
+            Data model created using relationships among metrics
 •	Visuals Used:
-o	Line Chart, Bar Chart, Map (Choropleth), KPI Cards, Combo Chart, Table
-•	Interactivity:
-o	Drill-through navigation
-o	Conditional formatting
-o	Region-wise filtering
+            Line Chart, Bar Chart, Map (Choropleth), KPI Cards, Combo Chart, Table
+•	Interactivity:  
+            Drill-through navigation
+            Conditional formatting
+            Region-wise filtering
+
+### Page 1:Dashboard
+### Page 2:Dashboard
+### Page 3:Dashboard
 Conclusion
 This Power BI project showcases the ability to build an interactive and insightful data analytics dashboard using real-time, publicly available API data. It demonstrates key Power BI skills, including data extraction from APIs, transformation, modeling, visual design, and storytelling.
 The dashboard enables users to:
