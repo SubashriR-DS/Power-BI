@@ -56,7 +56,8 @@ The goal is to help analysts, policymakers, and researchers gain insights into g
     ![image](https://github.com/user-attachments/assets/f6c767df-a7f0-4f3b-9165-611eea8a8ddb)
 
 ### Page 3:Dashboard
-    ![image](https://github.com/user-attachments/assets/72ec7014-f33d-42c4-a694-969ee8c4fb88)
+![image](https://github.com/user-attachments/assets/f6030a51-6d1c-4b77-891c-5e32cc85c8cc)
+
 
 ## Conclusion
 This Power BI project showcases the ability to build an interactive and insightful data analytics dashboard using real-time, publicly available API data. It demonstrates key Power BI skills, including data extraction from APIs, transformation, modeling, visual design, and storytelling.
