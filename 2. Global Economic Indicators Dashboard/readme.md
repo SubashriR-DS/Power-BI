@@ -49,6 +49,8 @@ The goal is to help analysts, policymakers, and researchers gain insights into g
             Region-wise filtering
 
 ### Page 1:Dashboard
+    ![image](https://github.com/user-attachments/assets/83488f81-42ac-44a2-9066-6810a6fb129e)
+
 ### Page 2:Dashboard
 ### Page 3:Dashboard
 Conclusion
